@@ -1,4 +1,4 @@
-package main.java.edu.unisabana.dyas.patterns.util;
+package edu.unisabana.dyas.patterns.util;
 
 // Clase original proporcionada por terceros
 public class MessagingClient implements MessageSender {
